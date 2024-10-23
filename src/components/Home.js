@@ -123,6 +123,7 @@ Environment friendliness and safety shall be part of TPPL culture.
                         <span>Mexiletine Hydrochloride Ph.Eur</span>
                         <br />
                         <span>Mexiletine Hydrochloride USP</span>
+                        <br />
                         <span>Mexiletine Hydrochloride IP</span>
                         </p>
                     </div>
